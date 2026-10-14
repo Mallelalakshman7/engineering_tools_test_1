@@ -7,7 +7,7 @@ def sub(a, b):
 
 
 def mul(a, b):
-    pass
+    return a*b
 
 
 def div(a, b):
