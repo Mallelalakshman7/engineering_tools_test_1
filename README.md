@@ -1,1 +1,1 @@
-Conflict demo: updated base version
+Conflict demo: resolved successfully using rebase
