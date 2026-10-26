@@ -1,1 +1,1 @@
-Conflict demo: original version
+Conflict demo: updated base version
